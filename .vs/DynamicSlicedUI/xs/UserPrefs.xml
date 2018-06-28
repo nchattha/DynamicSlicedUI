@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{099203C3-89BD-EF21-CDD5-FD1BCAF8309D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CustomButton.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DynamicCreation.cs" Line="125" Column="93" />
+      <File FileName="Assets/Scripts/CustomButton.cs" Line="21" Column="10" />
+      <File FileName="Assets/Scripts/DynamicCreation_extrawork.cs" Line="7" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
